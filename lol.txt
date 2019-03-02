@@ -1,5 +1,3 @@
 Hello world
 Branch 1: I say hello goodbye
 Branch 2: reimu desu
-Hello world!!
-Branch 1: I say hello goodbye
